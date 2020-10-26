@@ -46,11 +46,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Burung",
+        "meta_descr": "Burung helang terbangnya tinggi. Singgah sebentar di dahan pokok. Hurmmmmmmmmmmmmmmm.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/sq3.jpeg"
       },
       "components": [
         {
